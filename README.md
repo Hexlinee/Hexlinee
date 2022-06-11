@@ -5,7 +5,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/Hexlinee/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Hexlinee&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hexlinee&theme=gruvbox&hide_border=true" />
   </a>
@@ -14,5 +14,5 @@
 
 
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hexlinee&custom_title=Hexlinee's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Hexlinee's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hexlinee&custom_title=Hexlinee's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Hexlinee)
 
