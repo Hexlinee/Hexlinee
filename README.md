@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/Hexlinee/Hexlinee/blob/main/waving.gif">, I'm Hexlinee</h1>
-<h4 align="center">I'm a 16 year old student from Turkey, I'm working towards my goal of becoming an engineer and trying to learn/create stuff everyday.</h4>
+<h4 align="center">I'm a 17 year old student from Turkey (my real name is ege), I'm working towards my goal of becoming an engineer and trying to learn/create stuff everyday.</h4>
 </div>
 
 <br/>
